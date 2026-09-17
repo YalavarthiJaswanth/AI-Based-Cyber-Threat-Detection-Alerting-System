@@ -47,6 +47,27 @@ Network / Attack Records
           ▼
     Security Dashboard
 
+📁 Project Structure
+AI-Based-Cyber-Threat-Detection-Alerting-System/
+│
+├── backend/
+│   └── Backend application and detection services
+│
+├── frontend/
+│   └── Web-based security interface
+│
+├── Jenkinsfile
+│   └── CI/CD pipeline configuration
+│
+├── docker-compose.yml
+│   └── Container orchestration configuration
+│
+├── mock_network_logs.csv
+│   └── Network activity dataset used for testing
+│
+├── .gitignore
+│
+└── README.md
 
 🎯 Project Objectives
 
